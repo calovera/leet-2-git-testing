@@ -1,5 +1,5 @@
 /*
- * @lc app=leetcode id=1659114420 lang=javascript
+ * @lc app=leetcode id=1659145335 lang=javascript
  *
  * TwoSum
  * 
