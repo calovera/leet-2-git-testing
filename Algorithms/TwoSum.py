@@ -1,5 +1,5 @@
 /*
- * @lc app=leetcode id=1659110476 lang=python3
+ * @lc app=leetcode id=1659114333 lang=python3
  *
  * TwoSum
  * 
